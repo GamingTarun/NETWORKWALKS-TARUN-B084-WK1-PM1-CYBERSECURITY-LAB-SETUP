@@ -23,12 +23,3 @@ Kali Linux ARM64 lab configured in Oracle VirtualBox on macOS.
 - Enabled clipboard, drag-and-drop, and shared folder integration.
 - Created a baseline snapshot for recovery.
 
-## Evidence
-
-![NAT Network](screenshots/01-nat-network.png)
-
-![Kali Network Adapter](screenshots/02-kali-vm-network.png)
-
-![Connectivity Checks](screenshots/03-connectivity-checks.png)
-
-![Week 1 Baseline](screenshots/04-week-1-baseline.png)
